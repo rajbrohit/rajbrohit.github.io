@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+title:             Rohit Raj
+email:             rohit.raj@okstate.edu
+description:       Rock Physicist
+author:            Rohit Raj
+baseurl:           ""
+url:               "rajbrohit.github.io"
